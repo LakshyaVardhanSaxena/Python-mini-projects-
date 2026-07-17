@@ -16,7 +16,7 @@ def calculator():
 			print("Error! Division by zero is not allowed.")
 			return
 	else:
-		print("Invalid operator!")
+		print("Invalid Operator!")
 		return
 
 	print("Result:", result)
